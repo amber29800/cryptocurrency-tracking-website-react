@@ -1,0 +1,72 @@
+.filteroptions {
+    background-color: black;
+    height: 100px;
+  }
+  
+  .dataResult {
+  
+  }
+  
+  .dataResult::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .dataResult .dataItems {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .dataResult p {
+    
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .dataResult :hover {
+    background-color: lightgrey;
+  }
+  
+  .crypto-card {
+    
+  }
+  
+  .result-container {
+   
+  }
+  
+  .result {
+    cursor: pointer;
+    margin-top: 5px;
+  }
+  
+  p {
+    margin: 0;
+  }
+  
+  .crypto-details {
+
+  }
+  
+  .crypto-name {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+  }
+
+  .crypto-icon {
+    flex:1;
+    padding-left: 10px;
+    align-items: center;
+    width: 50%;
+  }
+  
+  img {
+    
+    height: 64px;
+    width: 64px;
+  }
